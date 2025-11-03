@@ -1,0 +1,55 @@
+.yellow-box {
+    width: 700px;
+    height: 800px;
+    background-color: yellow;
+    border-radius: 20px;
+    border: solid red;
+}
+
+.green-box {
+    width: 550px;
+    height: 500px;
+    background-color: green;
+    border-radius: 20px;
+    border: 5px solid red;
+    margin: 20px 60px;
+    
+}
+
+.blue-box {
+    width: 150px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: 190px 25px;
+
+}
+
+.turqouise-box {
+    width: 100px;
+    height: 100px;
+    background-color: #04f1ff;
+    border-radius: 10px;
+    margin: -530px 220px;
+}
+
+.orange-box {
+    width: 150px;
+    height: 60px;
+    background-color: orange;
+    border-radius: 10px;
+    margin: 795px 210px;
+ 
+}
+
+.red-box {
+    width: 150px;
+    height: 200px;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 70px
+}
+
+
+
+
