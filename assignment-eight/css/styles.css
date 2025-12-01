@@ -1,0 +1,295 @@
+
+.logo {
+    width: 150px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+nav {
+    float: right;
+    padding: 20px 0;
+    margin-right: 70px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-left: 20px;
+    text-decoration-color: navy;
+    color: #50507e
+}
+
+.learn-more {
+    background-color: #222f4b;
+    padding: 7px 15px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 12px
+}
+
+.hero {
+    padding: 80px 16px;
+    background-image: url("../images/banner-img.jpg");
+    background-size: cover;
+    background-position: bottom;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.welcome {
+    text-align: center;
+    font-weight: 100;
+    color: #222f4b;
+}
+
+div p {
+    text-align: center;
+    font-size: 12px;
+    color: #515151;
+    width: 600px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;  
+}
+
+.about {
+    background-color: #222f4b;
+    text-decoration: none;
+    padding: 7px 20px;
+    color: #ffffff;
+    font-size: 10px;
+    display: block;       
+    text-align: center;  
+}
+
+.shop {
+    border: solid 3px #264484;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 4px 18px;
+    color: #264484;
+}
+
+.des-1 {
+    width: 700px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.pic-1 {
+    background-image: url("../images/callout-img-01.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 10px;
+  
+}
+
+.title-1 {
+    position: relative;
+    left: 350px;
+    font-weight: 100;
+    color: #264484;
+    float: right; 
+}
+
+.para-1 {
+    float: right;
+    text-align: right;
+    width: 40%;
+    position: relative;
+    right: 40px;
+    bottom: 150px;
+    font-weight: 100;
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+}
+/**********************/
+
+.des-2 {
+    width: 700px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.pic-2 {
+    background-image: url("../images/callout-img-02.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 360px;
+
+}
+
+.title-2 {
+    position: relative;
+    right: 550px;
+    font-weight: 100;
+    color: #264484;
+    float: right; 
+}
+
+.para-2 {
+    float: left;
+    text-align: left;
+    width: 40%;
+    position: relative;
+    left: 20px;
+    bottom: 150px;
+    font-weight: 100;
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.des-3 {
+    width: 700px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.pic-3 {
+    background-image: url("../images/callout-img-03.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 10px;
+  
+}
+
+.title-3 {
+    position: relative;
+    left: 350px;
+    bottom: 120px;
+    font-weight: 100;
+    color: #264484;
+    float: right; 
+}
+
+.para-3 {
+    float: right;
+    text-align: right;
+    width: 40%;
+    position: relative;
+    right: 40px;
+    bottom: 150px;
+    font-weight: 100;
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+
+}
+
+.des-4 {
+    width: 700px;
+    height: 2150px;
+    margin: 0 auto;
+}
+
+.pic-4 {
+    background-image: url("../images/callout-img-04.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 360px;
+
+}
+
+.title-4 {
+    position: relative;
+    right: 550px;
+    font-weight: 100;
+    color: #264484;
+    float: right; 
+}
+
+.para-4 {
+    float: left;
+    text-align: left;
+    width: 40%;
+    position: relative;
+    left: 20px;
+    bottom: 150px;
+    font-weight: 100;
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+}
+
+/**********************/
+
+
+.box {
+    width: 860px;
+    height: 170px;
+    background-color: #e7f0f2;   
+    position: relative;
+    right: 80px;
+}
+.footer-logo {
+    background-image: url("../images/thornbloom-logo.png");
+    width: 150px;
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+
+.info {
+    position: relative;
+    right: 80px;
+    bottom: 100px;
+    text-align: left;
+}
+
+.items {
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+}
+
+.icons {
+    position: relative;
+    left: 530px;
+    bottom: 200px;
+    width: 200px
+}
+
+.extra {
+    position: relative;
+
+    bottom: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
